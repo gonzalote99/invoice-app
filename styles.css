@@ -1,0 +1,29 @@
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.color-1 {
+  background-color: #001233;
+  color: whitesmoke !important;
+}
+
+
+.color-2 {
+  background-color: #001845;
+}
+
+.color-3 {
+  background-color: #0353a4;
+}
+
+
+.color-4 {
+  background-color: #023e7d;
+  color: white;
+}
+
+.input-card {
+  border-radius: 10px;
+  background: #002855;
+  box-shadow: inset 7px 7px 14px #001630, inset -7px -7px 14px #003a7a ;
+}
